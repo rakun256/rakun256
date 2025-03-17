@@ -1,3 +1,6 @@
+![Alt Text](https://github.com/user-attachments/assets/87b28df8-dc12-41f1-905c-eeac0667669f)
+![Alt Text](https://github.com/user-attachments/assets/87b28df8-dc12-41f1-905c-eeac0667669f)
+
 ## 💫 About Me:
 🔭 I’m currently working on **Fullstack Web Engineering and Mobile Development**.<br>  
 🌱 I’m currently learning **React Native, Spring Boot, AWS, and Python**.<br>  
